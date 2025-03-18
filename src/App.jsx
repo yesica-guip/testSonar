@@ -23,7 +23,7 @@ function App() {
         </button>
         <h1>Welcome sonar</h1>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Edit <code>src/App.jsx</code> and save to test HM
         </p>
       </div>
       <p className="read-the-docs">
