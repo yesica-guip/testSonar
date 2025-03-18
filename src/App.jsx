@@ -21,13 +21,13 @@ function App() {
         <button onClick={() => setCount((count) => count + 2)}>
           count is {count}
         </button>
-        <h1>Welcome sonar</h1>
+        <h1>Welcome test sonar</h1>
         <p>
           Edit <code>src/App.jsx</code> and save to test HM
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Click on the Vite and React logos to learn  more
       </p>
     </>
   )
