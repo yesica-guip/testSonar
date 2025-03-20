@@ -1,0 +1,8 @@
+image: sonarsource/sonar-scanner-cli
+ 
+pipelines:
+  default:
+    - step:
+        name: Analizar codigo con SonarQube
+        script:
+          - sonar-scanner
